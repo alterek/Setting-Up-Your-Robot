@@ -9,5 +9,5 @@
 * Микроконтроллер Arduino Mega 2560.
 * Pololu Micro Maestro Servo Controller x6.
 * Среда разработки Arduino либо на ноутбуке с Linux или Windows, либо на Raspberry Pi.
-* TinMan робот был приобретен на AliExpress и назывался \_Track Cars Creeper Truck Crawler Kits with 6DOF Robot Arm and 6PCS MG1501 Servos Robo-Soul TK-6A\_. Он пришел без инструкций и большого количества дополнительных деталей.
+* TinMan робот был приобретен на AliExpress и назывался _Track Cars Creeper Truck Crawler Kits with 6DOF Robot Arm and 6PCS MG1501 Servos Robo-Soul TK-6A_. Он пришел без инструкций и большого количества дополнительных деталей.
 
